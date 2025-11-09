@@ -1,0 +1,9 @@
+source,target,weight
+Alice,Paper-A,3
+Alice,Paper-B,1
+Brian,Paper-A,2
+Brian,Paper-C,3
+Chen,Paper-C,2
+Chen,Paper-D,2
+Deepa,Paper-B,2
+Deepa,Paper-D,3
